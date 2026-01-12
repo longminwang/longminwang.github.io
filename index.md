@@ -18,7 +18,7 @@ layout: default
 
 - List of Publications and Preprints
 
-  1. Matthieu Dussaule, Longmin Wang, [Wenyuan Yang](http://faculty.bicmr.pku.edu.cn/~wyang/) (2025+).  [The growth of the Green function for random walks, Poincaré series](https://ahl.centre-mersenne.org/page/coming-articles/).  Annales Henri Lebesgue.  To appear.
+  1. Matthieu Dussaule, Longmin Wang, [Wenyuan Yang](http://faculty.bicmr.pku.edu.cn/~wyang/) (2025).  [The growth of the Green function for random walks, Poincaré series](https://ahl.centre-mersenne.org/item/10.5802/ahl.256.pdf).  Annales Henri Lebesgue. 8, 1061-1107.
   2. Matthieu Dussaule, Longmin Wang,  [Wenyuan Yang](http://faculty.bicmr.pku.edu.cn/~wyang/) (2025).  [Branching random walks on relatively hyperbolic groups](https://projecteuclid.org/journals/annals-of-probability/volume-53/issue-2/Branching-random-walks-on-relatively-hyperbolic-groups/10.1214/24-AOP1708.short).  Ann. Probab. 53 (2), 391-452.
   3. Shuwen Lai, Heng Ma, Longmin Wang (2024+).  [Multifractal spectrum of branching random walks on free groups](https://arxiv.org/abs/2409.01346).  arXiv preprint arXiv:2409.01346.
   4. Vladas Sidoravicius, Longmin Wang, Kainan Xiang (2023).  [Limit set of branching random walks on hyperbolic groups](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22088).  Commun. Pure Appl. Math. 76 (10), 2765-2803.
