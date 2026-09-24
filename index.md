@@ -4,8 +4,9 @@ layout: default
 
 # Course Information
 
+- Mathematical Analysis III, Fall 2026
+- Mathematical Analysis II, Spring 2026
 - Mathematical Analysis I, Fall 2025
-  - [Lecture Notes (still on the Alpha stage)](https://pointcritique.xyz/documents/analysis.pdf)
 - Mathematical Analysis III, Fall 2024
 - Mathematical Analysis II, Spring 2024
 - Mathematical Analysis I, Fall 2023
